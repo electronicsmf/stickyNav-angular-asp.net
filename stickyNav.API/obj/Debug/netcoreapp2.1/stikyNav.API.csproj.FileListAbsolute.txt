@@ -1,0 +1,14 @@
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\bin\Debug\netcoreapp2.1\stikyNav.API.deps.json
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\bin\Debug\netcoreapp2.1\stikyNav.API.runtimeconfig.json
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\bin\Debug\netcoreapp2.1\stikyNav.API.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\bin\Debug\netcoreapp2.1\stikyNav.API.dll
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\bin\Debug\netcoreapp2.1\stikyNav.API.pdb
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\obj\Debug\netcoreapp2.1\stikyNav.API.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\obj\Debug\netcoreapp2.1\stikyNav.API.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\obj\Debug\netcoreapp2.1\stikyNav.API.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\obj\Debug\netcoreapp2.1\stikyNav.API.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\obj\Debug\netcoreapp2.1\stikyNav.API.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\obj\Debug\netcoreapp2.1\stikyNav.API.AssemblyInfo.cs
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\obj\Debug\netcoreapp2.1\stikyNav.API.RazorTargetAssemblyInfo.cache
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\obj\Debug\netcoreapp2.1\stikyNav.API.dll
+C:\Users\Martin\Desktop\stickyNav\stickyNav.API\obj\Debug\netcoreapp2.1\stikyNav.API.pdb
